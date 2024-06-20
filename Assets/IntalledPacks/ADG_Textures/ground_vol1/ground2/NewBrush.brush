@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12146, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: NewBrush
+  m_EditorClassIdentifier: 
+  m_Mask: {fileID: 2800000, guid: ef1fbc9bae2718d4a8dbe2baaa01399c, type: 3}
+  m_Falloff:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.20522434
+      value: 0.19646141
+      inSlope: 1.3286383
+      outSlope: 1.3286383
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.68214315
+      value: 0.18483399
+      inSlope: -0.6756358
+      outSlope: -0.6756358
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.9935303
+      value: 0
+      inSlope: -2.42927
+      outSlope: -2.42927
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.027361209
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_RadiusScale: 1.176
+  m_BlackWhiteRemapMin: 0
+  m_BlackWhiteRemapMax: 1
+  m_InvertRemapRange: 0
